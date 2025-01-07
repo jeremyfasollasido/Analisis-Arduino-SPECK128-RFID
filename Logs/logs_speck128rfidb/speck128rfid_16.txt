@@ -1,0 +1,16 @@
+Flash Usage: 15104 / 30720 bytes, RAM Usage: 1107 / 2048 bytes
+
+Ciphertext: 89 51 BC 94 2A A2 70 D5 3F C7 D2 88 59 E8 A9 83
+Encryption Completed in 460 us
+Decrypted Text: 23 EE AE 0D 00 00 00 00 00 00 00 00 00 00 00 00
+Decryption Completed in 472 us
+Memory Usage = 1142 B
+
+Encryption Voltage: 4.16 V
+Encryption Current: 7.00 mA
+Encryption Power: 0.03 W
+
+Decryption Voltage: 4.16 V
+Decryption Current: 6.90 mA
+Decryption Power: 0.03 W
+selesai
